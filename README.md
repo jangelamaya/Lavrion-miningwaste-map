@@ -5,7 +5,7 @@ Metallurgical processing wastes and contaminated soil, Lavrion Hellas
 
 Interactive map for soil contamination citizen science project in Lavrion, Greece.
 
-**View the map:** https://YOUR-USERNAME.github.io/lavrion-student-map/
+**View the map:** https://jangelamaya.github.io/lavrion-miningwaste-map/
 
 ## Instructions
 - Toggle between study area map and satellite imagery using checkboxes
